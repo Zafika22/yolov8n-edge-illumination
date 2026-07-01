@@ -1,0 +1,10 @@
+[
+  {
+    "gamma": 1.0,
+    "map50": 0.0,
+    "median_latency_ms": null,
+    "n_images": 1,
+    "n_errors": 1,
+    "viable": false
+  }
+]

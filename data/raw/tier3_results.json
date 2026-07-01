@@ -1,0 +1,42 @@
+{
+  "0.3": {
+    "map50": 0.4713,
+    "map5095": 0.3273,
+    "latency_median_ms": 1036.5,
+    "latency_mean_ms": 1020.8,
+    "latency_std_ms": 107.9,
+    "viable": false
+  },
+  "0.6": {
+    "map50": 0.5694,
+    "map5095": 0.4164,
+    "latency_median_ms": 1032.1,
+    "latency_mean_ms": 1023.0,
+    "latency_std_ms": 108.0,
+    "viable": false
+  },
+  "1.0": {
+    "map50": 0.6034271817615687,
+    "map5095": 0.443769494937465,
+    "latency_median_ms": 1039.3282305008142,
+    "latency_mean_ms": 1030.2930858002128,
+    "latency_std_ms": 107.39593722777889,
+    "viable": false
+  },
+  "1.4": {
+    "map50": 0.5969537470312323,
+    "map5095": 0.4397646694044863,
+    "latency_median_ms": 1032.7561445001265,
+    "latency_mean_ms": 1013.2205542000065,
+    "latency_std_ms": 107.27780836275754,
+    "viable": false
+  },
+  "1.8": {
+    "map50": 0.5803195826651699,
+    "map5095": 0.4292383816977866,
+    "latency_median_ms": 1044.0044074998696,
+    "latency_mean_ms": 1022.2451865999574,
+    "latency_std_ms": 108.51177048550484,
+    "viable": false
+  }
+}

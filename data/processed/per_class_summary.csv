@@ -1,0 +1,72 @@
+,mAP_baseline,mAP_gamma03,caida_abs,caida_pct,colapsa_en_03
+scissors,0.717,0.067,0.65,90.7,True
+sports ball,0.52,0.0,0.52,100.0,True
+baseball bat,0.497,0.107,0.391,78.6,True
+dining table,0.863,0.479,0.384,44.5,True
+oven,0.695,0.311,0.384,55.3,True
+sink,0.361,0.03,0.331,91.7,True
+backpack,0.675,0.359,0.315,46.7,True
+train,0.601,0.342,0.26,43.2,True
+potted plant,0.72,0.472,0.248,34.4,True
+horse,0.789,0.573,0.216,27.4,False
+elephant,0.584,0.379,0.205,35.2,True
+mouse,0.469,0.272,0.197,41.9,True
+laptop,0.532,0.36,0.173,32.4,True
+cup,0.406,0.235,0.171,42.2,True
+carrot,0.492,0.321,0.171,34.7,True
+dog,0.508,0.339,0.17,33.4,True
+knife,0.313,0.163,0.15,47.8,True
+couch,0.358,0.22,0.138,38.5,True
+bottle,0.198,0.061,0.137,69.3,True
+bowl,0.328,0.193,0.135,41.1,True
+wine glass,0.27,0.149,0.121,44.8,True
+person,0.533,0.413,0.12,22.5,True
+toothbrush,0.444,0.327,0.116,26.2,True
+fork,0.444,0.327,0.116,26.2,True
+stop sign,0.444,0.327,0.116,26.2,True
+giraffe,0.444,0.327,0.116,26.2,True
+clock,0.444,0.327,0.116,26.2,True
+pizza,0.444,0.327,0.116,26.2,True
+zebra,0.444,0.327,0.116,26.2,True
+bird,0.444,0.327,0.116,26.2,True
+bear,0.518,0.403,0.115,22.2,True
+kite,0.675,0.564,0.111,16.5,False
+book,0.526,0.419,0.107,20.4,True
+traffic light,0.136,0.029,0.107,79.0,True
+umbrella,0.995,0.896,0.099,10.0,False
+orange,0.368,0.27,0.098,26.6,True
+suitcase,0.23,0.134,0.097,42.0,True
+microwave,0.675,0.579,0.096,14.2,False
+snowboard,0.473,0.378,0.095,20.1,True
+tennis racket,0.182,0.091,0.091,50.2,True
+frisbee,0.413,0.324,0.089,21.6,True
+bicycle,0.261,0.187,0.075,28.6,True
+tv,0.237,0.162,0.075,31.5,True
+bus,0.689,0.623,0.066,9.6,False
+teddy bear,0.267,0.201,0.066,24.9,True
+truck,0.293,0.228,0.065,22.1,True
+chair,0.2,0.138,0.062,31.0,True
+car,0.162,0.1,0.062,38.1,True
+cat,0.364,0.307,0.056,15.5,True
+spoon,0.206,0.16,0.046,22.3,True
+bench,0.7,0.656,0.044,6.3,False
+baseball glove,0.499,0.457,0.042,8.4,True
+broccoli,0.186,0.146,0.04,21.5,True
+remote,0.617,0.582,0.036,5.8,False
+skateboard,0.29,0.256,0.033,11.5,True
+bed,0.841,0.81,0.031,3.7,False
+motorcycle,0.717,0.687,0.03,4.2,False
+skis,0.086,0.059,0.027,31.1,True
+banana,0.278,0.252,0.027,9.5,True
+boat,0.134,0.107,0.026,19.8,True
+cell phone,0.354,0.328,0.026,7.4,True
+sandwich,0.182,0.158,0.023,12.9,True
+handbag,0.964,0.951,0.012,1.3,False
+refrigerator,0.006,0.0,0.006,100.0,True
+toilet,0.843,0.841,0.003,0.3,False
+cake,0.621,0.621,0.0,0.0,False
+airplane,0.672,0.675,-0.003,-0.4,False
+hot dog,0.038,0.049,-0.011,-28.3,True
+vase,0.033,0.049,-0.015,-45.4,True
+donut,0.308,0.335,-0.027,-8.9,True
+tie,0.717,0.764,-0.047,-6.5,False

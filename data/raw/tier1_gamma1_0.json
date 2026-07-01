@@ -1,0 +1,12 @@
+{
+  "gamma": 1.0,
+  "map50": 0.0,
+  "n_classes": 0,
+  "median_latency_ms": null,
+  "latencies_ms": [],
+  "n_images": 1,
+  "n_errors": 1,
+  "n_predictions": 0,
+  "viable": false,
+  "latency_p50_ms": null
+}

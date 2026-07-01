@@ -1,0 +1,248 @@
+1st BL Modem Build DATE=Nov 30 2023, 0x0002000b
+Please input any key to enter X-Modem mode in 100 ms
+waiting input key...
+slot flash_offset 0x00100000
+New MemDesp himax_sec_SB_image_process PASS
+set_memory_s_ns
+bl_status = 0x800000, HX_DSP_FLAG 1
+bl_status = 0x800000
+jump_addr=0x10000000
+Compiler Version: ARM GNU, 13.2.1 20231009
+Build date: Jan  2 2025 06:21:56
+sensor_type: 15
+g_cursensorstream: 0
+{"type": 0, "name": "INIT@STAT?", "code": 0, "data": {"boot_count": 0, "is_ready": 1}}
+1st BL Modem Build DATE=Nov 30 2023, 0x0002000b
+Please input any key to enter X-Modem mode in 100 ms
+waiting input key...
+slot flash_offset 0x00100000
+New MemDesp himax_sec_SB_image_process PASS
+set_memory_s_ns
+bl_status = 0x800000, HX_DSP_FLAG 1
+bl_status = 0x800000
+jump_addr=0x10000000
+Compiler Version: ARM GNU, 13.2.1 20231009
+Build date: Jan  2 2025 06:21:56
+sensor_type: 15
+g_cursensorstream: 0
+{"type": 0, "name": "INIT@STAT?", "code": 0, "data": {"boot_count": 0, "is_ready": 1}}
+{"type": 0, "name": "MODEL", "code": 0, "data": {"model": {"id": 1, "type": 0, "address": 4194304, "size": 0}}}
+{"type": 0, "name": "INVOKE", "code": 0, "data": {"model": {"id": 1, "type": 0, "address": 4194304, "size": 0}, "algorithm": {"type": 6, "categroy": 1, "input_from": 1, "config": {"tscore": 50, "tiou": 45}}, "sensor": {"id": 1, "type": 1, "state": 1, "opt_id": 0, "opt_detail": "240x240 Auto"}}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 1, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 2, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 3, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 4, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 5, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 6, "perf": [6, 86, 1], "boxes": [[151, 205, 138, 69, 50, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 7, "perf": [6, 86, 1], "boxes": [[151, 209, 142, 60, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 8, "perf": [6, 86, 1], "boxes": [[133, 193, 178, 92, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 9, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 10, "perf": [6, 86, 1], "boxes": [[148, 214, 138, 52, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 11, "perf": [6, 86, 1], "boxes": [[132, 197, 176, 81, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 12, "perf": [6, 86, 1], "boxes": [[130, 193, 179, 90, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 13, "perf": [6, 86, 1], "boxes": [[139, 205, 156, 65, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 14, "perf": [6, 86, 1], "boxes": [[138, 211, 147, 59, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 15, "perf": [6, 86, 1], "boxes": [[114, 179, 175, 115, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 16, "perf": [6, 86, 1], "boxes": [[102, 166, 179, 145, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 17, "perf": [6, 86, 1], "boxes": [[96, 159, 178, 159, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 18, "perf": [6, 86, 1], "boxes": [[105, 172, 176, 135, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 19, "perf": [6, 86, 1], "boxes": [[105, 179, 178, 115, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 20, "perf": [6, 86, 1], "boxes": [[102, 173, 175, 129, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 21, "perf": [6, 86, 1], "boxes": [[96, 167, 178, 138, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 22, "perf": [6, 86, 1], "boxes": [[98, 173, 181, 130, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 23, "perf": [6, 86, 1], "boxes": [[95, 182, 179, 112, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 24, "perf": [6, 86, 1], "boxes": [[86, 178, 179, 124, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 25, "perf": [6, 86, 1], "boxes": [[78, 160, 156, 153, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 26, "perf": [6, 86, 1], "boxes": [[78, 162, 157, 154, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 27, "perf": [6, 86, 1], "boxes": [[81, 172, 160, 132, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 28, "perf": [6, 86, 1], "boxes": [[81, 172, 159, 133, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 29, "perf": [6, 86, 1], "boxes": [[78, 162, 154, 151, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 30, "perf": [6, 86, 1], "boxes": [[80, 163, 159, 150, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 31, "perf": [6, 86, 1], "boxes": [[81, 172, 160, 132, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 32, "perf": [6, 86, 1], "boxes": [[80, 167, 157, 142, 85, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 33, "perf": [6, 86, 1], "boxes": [[77, 162, 151, 154, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 34, "perf": [6, 86, 1], "boxes": [[77, 162, 151, 151, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 35, "perf": [6, 86, 1], "boxes": [[74, 167, 148, 138, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 36, "perf": [6, 86, 1], "boxes": [[72, 165, 142, 145, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 37, "perf": [6, 86, 1], "boxes": [[66, 148, 129, 176, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 38, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 39, "perf": [6, 86, 1], "boxes": [[74, 170, 147, 133, 79, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 40, "perf": [6, 86, 1], "boxes": [[118, 154, 236, 165, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 41, "perf": [6, 86, 1], "boxes": [[101, 120, 199, 233, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 42, "perf": [6, 86, 1], "boxes": [[104, 120, 203, 234, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 43, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 44, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 45, "perf": [6, 86, 1], "boxes": [[99, 178, 172, 121, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 46, "perf": [6, 86, 1], "boxes": [[92, 163, 162, 151, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 47, "perf": [6, 86, 1], "boxes": [[87, 156, 170, 165, 50, 16]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 48, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 49, "perf": [6, 86, 1], "boxes": [[95, 176, 190, 124, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 50, "perf": [6, 86, 1], "boxes": [[98, 176, 194, 124, 50, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 51, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 52, "perf": [6, 86, 1], "boxes": [[98, 173, 188, 127, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 53, "perf": [6, 86, 1], "boxes": [[95, 172, 157, 129, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 54, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 55, "perf": [6, 86, 1], "boxes": [[112, 196, 153, 86, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 56, "perf": [6, 86, 1], "boxes": [[105, 187, 157, 104, 50, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 57, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 58, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 59, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 60, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 61, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 62, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 63, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 64, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 65, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 66, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 67, "perf": [6, 86, 1], "boxes": [[121, 196, 151, 86, 50, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 68, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 69, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 70, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 71, "perf": [6, 86, 1], "boxes": [[107, 200, 162, 74, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 72, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 73, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 74, "perf": [6, 86, 1], "boxes": [[110, 185, 159, 107, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 75, "perf": [6, 86, 1], "boxes": [[123, 200, 156, 77, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 76, "perf": [6, 86, 1], "boxes": [[129, 196, 156, 84, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 77, "perf": [6, 86, 1], "boxes": [[139, 193, 157, 92, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 78, "perf": [6, 86, 1], "boxes": [[141, 188, 175, 101, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 79, "perf": [6, 86, 1], "boxes": [[167, 194, 142, 87, 50, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 80, "perf": [6, 86, 1], "boxes": [[167, 205, 147, 65, 66, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 81, "perf": [6, 86, 1], "boxes": [[144, 194, 194, 89, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 82, "perf": [6, 86, 1], "boxes": [[139, 191, 197, 93, 56, 16]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 83, "perf": [6, 86, 1], "boxes": [[141, 196, 173, 86, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 84, "perf": [6, 86, 1], "boxes": [[139, 193, 165, 89, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 85, "perf": [6, 86, 1], "boxes": [[144, 193, 151, 92, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 86, "perf": [6, 86, 1], "boxes": [[139, 170, 153, 136, 61, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 87, "perf": [6, 86, 1], "boxes": [[127, 154, 148, 167, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 88, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 89, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 90, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 91, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 92, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 93, "perf": [6, 86, 1], "boxes": [[160, 187, 145, 104, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 94, "perf": [6, 86, 1], "boxes": [[153, 172, 145, 136, 71, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 95, "perf": [6, 86, 1], "boxes": [[108, 142, 221, 191, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 96, "perf": [6, 86, 1], "boxes": [[118, 127, 237, 220, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 97, "perf": [6, 86, 1], "boxes": [[118, 120, 236, 237, 85, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 98, "perf": [6, 86, 1], "boxes": [[118, 118, 237, 236, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 99, "perf": [6, 86, 1], "boxes": [[118, 120, 237, 237, 83, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 100, "perf": [6, 86, 1], "boxes": [[118, 120, 233, 234, 56, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 101, "perf": [6, 86, 1], "boxes": [], "resolution": [240, 240]}}
+1st BL Modem Build DATE=Nov 30 2023, 0x0002000b
+Please input any key to enter X-Modem mode in 100 ms
+waiting input key...
+slot flash_offset 0x00100000
+New MemDesp himax_sec_SB_image_process PASS
+set_memory_s_ns
+bl_status = 0x800000, HX_DSP_FLAG 1
+bl_status = 0x800000
+jump_addr=0x10000000
+Compiler Version: ARM GNU, 13.2.1 20231009
+Build date: Jan  2 2025 06:21:56
+sensor_type: 15
+g_cursensorstream: 0
+{"type": 0, "name": "INIT@STAT?", "code": 0, "data": {"boot_count": 0, "is_ready": 1}}
+{"type": 0, "name": "MODEL", "code": 0, "data": {"model": {"id": 1, "type": 0, "address": 4194304, "size": 0}}}
+{"type": 0, "name": "INVOKE", "code": 0, "data": {"model": {"id": 1, "type": 0, "address": 4194304, "size": 0}, "algorithm": {"type": 6, "categroy": 1, "input_from": 1, "config": {"tscore": 50, "tiou": 45}}, "sensor": {"id": 1, "type": 1, "state": 1, "opt_id": 0, "opt_detail": "240x240 Auto"}}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 1, "perf": [6, 86, 1], "boxes": [[118, 126, 236, 225, 76, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 2, "perf": [6, 86, 1], "boxes": [[120, 126, 237, 222, 95, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 3, "perf": [6, 86, 1], "boxes": [[118, 127, 236, 220, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 4, "perf": [6, 86, 1], "boxes": [[118, 129, 236, 215, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 5, "perf": [6, 86, 1], "boxes": [[118, 132, 239, 212, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 6, "perf": [6, 86, 1], "boxes": [[120, 133, 237, 209, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 7, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 8, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 9, "perf": [6, 86, 1], "boxes": [[112, 139, 230, 197, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 10, "perf": [6, 86, 1], "boxes": [[117, 138, 233, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 11, "perf": [6, 86, 1], "boxes": [[114, 141, 227, 196, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 12, "perf": [6, 86, 1], "boxes": [[111, 141, 221, 193, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 13, "perf": [6, 86, 1], "boxes": [[108, 142, 220, 190, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 14, "perf": [6, 86, 1], "boxes": [[107, 142, 217, 190, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 15, "perf": [6, 86, 1], "boxes": [[111, 141, 222, 193, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 16, "perf": [6, 86, 1], "boxes": [[114, 141, 227, 193, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 17, "perf": [6, 86, 1], "boxes": [[117, 139, 230, 197, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 18, "perf": [6, 86, 1], "boxes": [[115, 139, 231, 197, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 19, "perf": [6, 86, 1], "boxes": [[117, 139, 231, 197, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 20, "perf": [6, 86, 1], "boxes": [[117, 139, 231, 197, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 21, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 199, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 22, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 199, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 23, "perf": [6, 86, 1], "boxes": [[117, 138, 234, 200, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 24, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 25, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 202, 90, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 26, "perf": [6, 86, 1], "boxes": [[117, 135, 231, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 27, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 28, "perf": [6, 86, 1], "boxes": [[117, 138, 234, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 29, "perf": [6, 86, 1], "boxes": [[115, 138, 231, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 30, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 31, "perf": [6, 86, 1], "boxes": [[118, 138, 233, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 32, "perf": [6, 86, 1], "boxes": [[115, 138, 236, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 33, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 34, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 35, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 36, "perf": [6, 86, 1], "boxes": [[117, 138, 234, 199, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 37, "perf": [6, 86, 1], "boxes": [[117, 138, 231, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 38, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 39, "perf": [6, 86, 1], "boxes": [[117, 138, 234, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 40, "perf": [6, 86, 1], "boxes": [[117, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 41, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 42, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 43, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 44, "perf": [6, 86, 1], "boxes": [[118, 138, 234, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 45, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 202, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 46, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 47, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 48, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 49, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 50, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 51, "perf": [6, 86, 1], "boxes": [[118, 138, 237, 200, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 52, "perf": [6, 86, 1], "boxes": [[120, 138, 237, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 53, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 54, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 55, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 56, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 202, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 57, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 58, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 59, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 60, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 61, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 62, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 63, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 92, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 64, "perf": [6, 86, 1], "boxes": [[120, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 65, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 66, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 67, "perf": [6, 86, 1], "boxes": [[118, 138, 236, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 68, "perf": [6, 86, 1], "boxes": [[118, 138, 237, 200, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 69, "perf": [6, 86, 1], "boxes": [[118, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 70, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 71, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 72, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 73, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 74, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 75, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 76, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 77, "perf": [6, 86, 1], "boxes": [[118, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 78, "perf": [6, 86, 1], "boxes": [[118, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 79, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 80, "perf": [6, 86, 1], "boxes": [[118, 136, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 81, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 82, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 83, "perf": [6, 86, 1], "boxes": [[118, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 84, "perf": [6, 86, 1], "boxes": [[117, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 85, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 86, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 87, "perf": [6, 86, 1], "boxes": [[118, 135, 239, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 88, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 89, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 90, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 91, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 92, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 93, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 94, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 95, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 96, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 97, "perf": [6, 86, 1], "boxes": [[118, 135, 237, 203, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 98, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 95, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 99, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 100, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
+{"type": 1, "name": "INVOKE", "code": 0, "data": {"count": 101, "perf": [6, 86, 1], "boxes": [[118, 135, 236, 205, 94, 0]], "resolution": [240, 240]}}
